@@ -19,5 +19,4 @@ for name, job in job_list.items():
     print(f"{name} is a {job}")
 
 password = 'supersecretpassword'
-test_password(password
-              )
+test_password(password)
